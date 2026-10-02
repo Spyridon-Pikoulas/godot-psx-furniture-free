@@ -11,6 +11,8 @@ Same addon, same look: it installs over this one.
 
 For the flat around them, [PSX Apartment Kit Free](https://heyheythere.itch.io/psx-apartment-kit-free)
 has 15 modular pieces on the same grid (papered walls, a door, a sash window), free too.
+For what's cooked in the kitchen, [PSX Kitchen and Food Free](https://heyheythere.itch.io/psx-kitchen-and-food-free)
+has 15 more: a range that lights, a microwave, a rotten steak with its flies.
 
 ### What's inside
 
